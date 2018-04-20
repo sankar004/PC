@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<FrameworkMetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Framework>CRAFT</Framework>
+	<Tool>HPQTP</Tool>
+	<Language>VBScript</Language>
+	<Implementation>Default</Implementation>
+	<Repository>FileSystem</Repository>
+	<CurrentVersion>
+		<Number>9</Number>
+		<Date>25/02/2014</Date>
+	</CurrentVersion>
+	<BaseVersion>
+		<Number>1</Number>
+		<Date>08/04/2013</Date>
+	</BaseVersion>
+</FrameworkMetaData>
